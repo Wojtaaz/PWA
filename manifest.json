@@ -9,7 +9,7 @@
     "description" : "Projekt WSB - zaawansowane technologie sieciowe",
     "icons" : [
         {
-            "src":".logo.png",
+            "src":"./logo.png",
             "size":"512x512",
             "type":"image/png"
         }
