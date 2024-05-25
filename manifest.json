@@ -3,15 +3,15 @@
     "background_color" : "#f69435",
     "display" : "fullscreen",
     "scope" : "/",
-    "start_url" : "/",
+    "start_url" : "/PWA/",
     "name" : "Blog o grach",
     "short_name" : "gameAPP",
     "description" : "Projekt WSB - zaawansowane technologie sieciowe",
     "icons" : [
         {
-            "src":"./logo.png",
-            "size":"512x512",
-            "type":"image/png"
+            "src" : "./logo.png",
+            "size" : "512x512",
+            "type" : "image/png"
         }
     ]  
 }
